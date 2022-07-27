@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Оплаты" id="d48bd9ae-665c-4a5c-a435-ecb33ada156d" configVersion="3fbd80a70b3faa44b710beb932adff9f00000000">
+			<Metadata name="AccumulationRegister.Оплаты.Dimension.Измерение1" id="310cd858-941c-447c-aafe-154d7829d092"/>
+			<Metadata name="AccumulationRegister.Оплаты.Resource.Ресурс1" id="a29d536e-7978-4667-bfdf-1e9fcfe784f9"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="20d11759-3ff7-4790-a758-7d40b1aa9f39" configVersion="0b8676ec40dacc40b8913964100a5c3700000000"/>
+		<Metadata name="Document.ПриходныйКасоовыйОрдер" id="12bec224-64ad-4766-9d4a-4524e8404280" configVersion="b569f7f592882e4a9fdc5214416d368800000000"/>
+		<Metadata name="Document.ПриходныйКасоовыйОрдер.ObjectModule" id="12bec224-64ad-4766-9d4a-4524e8404280.0" configVersion="80ead05ab635e048b69ee345b5d3984c00000000"/>
+		<Metadata name="Language.Русский" id="67841f47-3698-4a3b-b330-c03da2388adb" configVersion="283c94739bdd4048954148300d01519700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
