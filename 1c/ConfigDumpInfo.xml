@@ -6,8 +6,8 @@
 			<Metadata name="AccumulationRegister.Оплаты.Resource.Ресурс1" id="a29d536e-7978-4667-bfdf-1e9fcfe784f9"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="20d11759-3ff7-4790-a758-7d40b1aa9f39" configVersion="0b8676ec40dacc40b8913964100a5c3700000000"/>
-		<Metadata name="Document.ПриходныйКасоовыйОрдер" id="12bec224-64ad-4766-9d4a-4524e8404280" configVersion="b569f7f592882e4a9fdc5214416d368800000000"/>
-		<Metadata name="Document.ПриходныйКасоовыйОрдер.ObjectModule" id="12bec224-64ad-4766-9d4a-4524e8404280.0" configVersion="80ead05ab635e048b69ee345b5d3984c00000000"/>
+		<Metadata name="Document.ПриходныйКасоовыйОрдер" id="12bec224-64ad-4766-9d4a-4524e8404280" configVersion="817b17262650e0488ba28ba81c5940b300000000"/>
+		<Metadata name="Document.ПриходныйКасоовыйОрдер.ObjectModule" id="12bec224-64ad-4766-9d4a-4524e8404280.0" configVersion="56e0b638df26d94fba4909052cc9095b00000000"/>
 		<Metadata name="Language.Русский" id="67841f47-3698-4a3b-b330-c03da2388adb" configVersion="283c94739bdd4048954148300d01519700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
